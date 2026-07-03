@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Zemin Wu 
-> PhD Candidate in NTU | AI + Distributed Acoustic Sensing (DAS) Researcher  
+> Soon to be PhD Candidate in NTU | AI + Distributed Acoustic Sensing (DAS) Researcher  
 > M.S. @ Southern University of Science and Technology (SUSTech) | B.S. in Computer Science
 
 ## 🚀 About Me
